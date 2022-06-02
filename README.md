@@ -1,16 +1,27 @@
-### Hi there 👋
+# Roberto Rodrigues
+## Hi, i'm [robertjrmt]([https://www.instagram.com/thereza.isadora/?hl=pt-br](https://www.instagram.com/roberto_rodrigues_adm/)) 🤙:
 
-<!--
-**robertjrmt/robertjrmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fun facts about me: 
+:star: I'm Administrator with Masters degree in Administration (Organization and work)!
 
-Here are some ideas to get you started:
+:computer: since 2020 I study to become a System analyst and developer (for now Python, SQL e JS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏞️ My favorite hobbies are cycling and trail 🚴‍♂️
+
+  
+</div>
+  
+### Let's keep in touch..? 
+
+ <a href="https://www.linkedin.com/in/roberto-rodrigues-73a1ba39/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/linkedin.png" width="16"></img></a>  [Linkedin](https://www.linkedin.com/in/roberto-rodrigues-73a1ba39/)
+ <a href="[https://www.instagram.com/thereza.isadora/](https://www.instagram.com/roberto_rodrigues_adm/)"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/instagram.png" width="16"></img></a>  [Instagram](https://www.instagram.com/roberto_rodrigues_adm/)
+ <a href="[https://twitter.com/RobertoJr85](https://twitter.com/RobertoJr85)"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/twitter.png" width="16"></img></a>  [Twitter](https://twitter.com/RobertoJr85)
+ <a href="mailto:robertjrmt@gmail.com"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/email.png" width="16"></img></a>  [E-mail](mailto:robertjrmt@gmail.com)
+  
+ ##
+   *Social learning is a process that
+involves people engaged with each other
+and that leads to a change in something they
+really care*
+
+Etienne Wenger e Beverly Wenger
